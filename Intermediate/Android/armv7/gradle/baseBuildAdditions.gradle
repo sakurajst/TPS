@@ -1,0 +1,15 @@
+allprojects {
+	tasks.withType(JavaCompile) {
+		options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+	}
+}
+
+			allprojects {
+			repositories {
+			repositories {
+			flatDir {
+dirs 'F:/Unreal Engine 4/UE_4.25/Engine/Source/ThirdParty/GoogleGameSDK/gamesdk/aar'
+			}
+			}
+			}
+			}

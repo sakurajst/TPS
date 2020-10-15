@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TPS1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0701755B-40A6-4545-852E-2B63602DECF3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPS1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TPS1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8995FADF-167F-4BF8-A8BF-D26CE202C20B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TPS1">
+      <UniqueIdentifier>{295E77A9-00ED-4781-8D20-6D3DB2B8E23B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPS1\TPS1.Build.cs">
+      <Filter>Source\TPS1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TPS1\TPS1.cpp">
+      <Filter>Source\TPS1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS1\TPS1.h">
+      <Filter>Source\TPS1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPS1\TPS1Character.cpp">
+      <Filter>Source\TPS1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS1\TPS1Character.h">
+      <Filter>Source\TPS1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPS1\TPS1GameMode.cpp">
+      <Filter>Source\TPS1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS1\TPS1GameMode.h">
+      <Filter>Source\TPS1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

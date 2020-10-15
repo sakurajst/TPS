@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TPS1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\TPS1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1Character.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1GameMode.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1.init.gen.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1Character.gen.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\TPS1GameMode.gen.cpp.obj"
+"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\Default.rc2.res"
+/OUT:"E:\UE4 project\TPS1\Intermediate\Build\Win64\UE4Editor\Development\TPS1\UE4Editor-TPS1.lib"
+/INCLUDE:IMPLEMENT_MODULE_TPS1

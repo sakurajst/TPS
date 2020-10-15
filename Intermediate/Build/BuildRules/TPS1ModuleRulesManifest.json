@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE4 project\\TPS1\\Source\\TPS1\\TPS1.Build.cs",
+		"E:\\UE4 project\\TPS1\\Source\\TPS1.Target.cs",
+		"E:\\UE4 project\\TPS1\\Source\\TPS1Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

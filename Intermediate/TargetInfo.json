@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPS1",
+			"Path": "E:\\UE4 project\\TPS1\\Source\\TPS1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPS1Editor",
+			"Path": "E:\\UE4 project\\TPS1\\Source\\TPS1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
