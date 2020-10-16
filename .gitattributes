@@ -2,3 +2,6 @@
 * text=auto
 *.apk filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
+*.gch filter=lfs diff=lfs merge=lfs -text
+*.pch filter=lfs diff=lfs merge=lfs -text
+Browse.VC.db filter=lfs diff=lfs merge=lfs -text
